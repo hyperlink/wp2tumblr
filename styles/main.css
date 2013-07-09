@@ -1,0 +1,37 @@
+body {
+	font-family: Helvetica, Verdana
+}
+
+li {
+	margin-bottom: 12px
+}
+
+#tumblrBlogs ul {
+    padding: 0;
+    margin: 0;
+}
+
+#tumblrBlogs li {
+    padding: 15px 10px;
+    border: 1px solid #ccc;
+    margin: 10px 0;
+    list-style-type: none;
+    width: 70%
+}
+
+#tumblrBlogs li a {
+    font-size: 20px;
+    text-decoration: none;
+}
+
+#tumblrBlogs li a i {
+    visibility: hidden
+}
+
+#tumblrBlogs li a.selected i {
+    visibility: visible;
+}
+
+#importBtn {
+    margin-left: 25px
+}

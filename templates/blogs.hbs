@@ -1,0 +1,7 @@
+<div>Authenticated as user: {{name}}</div>
+Choose blog to import to:
+<ul class="blogs">
+{{#each blogs}}
+	<li><a href="#" title="{{title}}" data-name="{{name}}"><i class="icon-ok-circle large"></i> {{name}} ({{type}})</a></li>
+{{/each}}
+</ul>

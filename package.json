@@ -1,0 +1,24 @@
+{
+  "name": "wp2tumblr",
+  "version": "0.0.1",
+  "description": "Migrate WordPress blog to tumblr",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "wordpress",
+    "tumblr",
+    "migration"
+  ],
+  "author": "Xiaoxin Lu",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-browserify2": "~0.1.8",
+    "grunt-contrib-watch": "~0.4.4",
+    "grunt-jsvalidate": "~0.2.1",
+    "grunt-contrib-handlebars": "~0.5.9"
+  }
+}
