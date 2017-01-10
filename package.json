@@ -15,10 +15,10 @@
   "author": "Xiaoxin Lu",
   "license": "MIT",
   "devDependencies": {
-    "grunt": "~0.4.1",
+    "grunt": "~1.0.1",
     "grunt-browserify2": "~0.1.8",
-    "grunt-contrib-watch": "~0.4.4",
+    "grunt-contrib-watch": "~1.0.0",
     "grunt-jsvalidate": "~0.2.1",
-    "grunt-contrib-handlebars": "~0.5.9"
+    "grunt-contrib-handlebars": "~1.0.0"
   }
 }
